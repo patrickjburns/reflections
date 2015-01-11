@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+ You create an area for things to be located. So Git knows.
+  
